@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating a common error: a TypeError arising from an attempt to perform arithmetic operations on a list containing mixed data types (numbers and strings). The bug.py file showcases the problematic code, while the bugSolution.py file presents a corrected version that handles this scenario gracefully.
